@@ -64,6 +64,6 @@ Les TPs montrent clairement que **la combinaison de systèmes non patchés, de c
 ---
 
 ### à consulter
-- TP1 — Mise en place et gestion d’Active Directory & GPO. :contentReference[oaicite:28]{index=28}  
-- TP2 — Attaques sur SMB / EternalBlue / Zerologon. :contentReference[oaicite:29]{index=29}  
-- TP3 — Attaques post-compromission (Mimikatz, PtH/PtT, Golden Ticket, Kerberoasting, exfiltration NTDS.dit). :contentReference[oaicite:30]{index=30}
+- TP1 — Mise en place et gestion d’Active Directory & GPO.
+- TP2 — Attaques sur SMB / EternalBlue / Zerologon.
+- TP3 — Attaques post-compromission (Mimikatz, PtH/PtT, Golden Ticket, Kerberoasting, exfiltration NTDS.dit).
