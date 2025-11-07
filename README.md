@@ -1,4 +1,3 @@
-# active-directory-lab
 # Déploiement d’un Active Directory & Laboratoire Offensif
 
 > **Avertissement** : contenu strictement pédagogique. Toutes les attaques et PoC décrits dans ce dépôt ont été effectués **uniquement** dans un environnement de laboratoire isolé et contrôlé. Ne reproduisez jamais ces actions sur des systèmes dont vous n'avez pas l'autorisation explicite. 
